@@ -1,4 +1,4 @@
-Ödevde istenen kodları ve çıktının ekran görüntüsünü paylaşıyorum. Diğer türlü nasıl yapılır bilemedim. İlk ödevden. 5 tane ayrı ayrı çıktısı var.
+Ödevde istenen kodları ve çıktının ekran görüntüsünü paylaşıyorum. Diğer türlü nasıl yapılır bilemedim. Ekran görüntülerinin oldukları klasörleri paylaştım. Burda istenilenleri yazıyorum. Ekran görüntüleri 1-2 şeklinde gidiyor. 
 
 **İLK ÖDEV**
 
